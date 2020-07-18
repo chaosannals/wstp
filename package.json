@@ -1,0 +1,31 @@
+{
+  "name": "wstp",
+  "version": "0.0.1",
+  "description": "yet a websocket transfer protocol.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosannals/wstp.git"
+  },
+  "keywords": [
+    "wstp",
+    "websocket"
+  ],
+  "author": {
+    "name": "chaosannals",
+    "email": "chaosannals@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaosannals/wstp/issues"
+  },
+  "homepage": "https://github.com/chaosannals/wstp#readme",
+  "main": "wstp.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
